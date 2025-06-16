@@ -1,0 +1,17 @@
+{
+  "name": "aspartec_plus_cloud",
+  "version": "1.0.0",
+  "description": "Cloud management for Aspartec+ app.",
+  "keywords": [
+    "cloud",
+    "functions",
+    "firebase"
+  ],
+  "license": "ISC",
+  "author": "ttn.developer",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
